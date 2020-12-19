@@ -1,6 +1,6 @@
 # MTProject
 ## 文件组织结构
-  * RNN代码见文件夹-RNN
+  * RNN代码见文件夹-Codes
   * 运行截图见文件夹-images
   * 课程报告见文件-2001889_周泽帆_机器翻译课程报告.pdf
   ![解码结果截图](https://github.com/ZhouZefan/MTProject/blob/main/images/解码结果截图.png)
