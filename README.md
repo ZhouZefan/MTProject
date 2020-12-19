@@ -11,6 +11,6 @@
   * 编写了RNN语言模型代码，在PTB数据集上进行了分batch训练。
   * 达到ppl值210
   * 训练过程如下图
-  ![ppl](https://github.com/ZhouZefan/MTProject/blob/main/images/ppl.png)
+  ![ppl](./images/ppl.png)
 
 ## 课程建议
